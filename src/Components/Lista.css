@@ -1,0 +1,21 @@
+div h2 {
+    margin: 10 auto;
+    font-size: 58px;
+}
+input {
+    padding: 1rem;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    
+}
+
+
+.btn button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 107%;
+    
+}
